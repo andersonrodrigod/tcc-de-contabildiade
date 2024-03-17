@@ -1,0 +1,45 @@
+Resumo: Utilização de Big Data para Análise de Dados Contábeis
+Introdução:
+
+A crescente geração de dados contábeis exige novas ferramentas para análise e extração de insights relevantes. O Big Data surge como uma solução promissora, oferecendo recursos para processar grandes volumes de dados e identificar padrões e tendências.
+
+Objetivo:
+
+Este trabalho tem como objetivo analisar o potencial da utilização do Big Data para a análise de dados contábeis. Serão exploradas as técnicas e ferramentas disponíveis, os benefícios e desafios da aplicação do Big Data na contabilidade, e apresentados estudos de caso que demonstrem sua viabilidade.
+
+Metodologia:
+
+A pesquisa será realizada através de revisão bibliográfica de livros, artigos científicos e estudos de caso. Serão utilizadas as seguintes palavras-chave: "Big Data", "análise de dados contábeis", "contabilidade", "ferramentas de Big Data", "estudos de caso".
+
+Resultados Esperados:
+
+Espera-se que a pesquisa contribua para:
+
+Identificar as principais técnicas e ferramentas de Big Data para análise de dados contábeis;
+Avaliar os benefícios da aplicação do Big Data na contabilidade, como aumento da eficiência, otimização de processos, tomada de decisões mais assertivas e redução de custos;
+Descrever os desafios da implementação do Big Data na contabilidade, como necessidade de infraestrutura adequada, profissionais qualificados e mudança de cultura organizacional;
+Apresentar estudos de caso que demonstrem a viabilidade da aplicação do Big Data na contabilidade em diferentes setores da economia.
+Conclusão:
+
+A utilização do Big Data para análise de dados contábeis apresenta um grande potencial para otimizar processos, reduzir custos e auxiliar na tomada de decisões mais assertivas. O estudo irá contribuir para o debate sobre o tema e fornecer informações relevantes para profissionais da área contábil.
+
+Palavras-chave: Big Data, análise de dados contábeis, contabilidade, ferramentas de Big Data, estudos de caso.
+
+Observações:
+
+Este resumo é apenas um exemplo. Você pode adaptá-lo de acordo com sua pesquisa específica.
+É importante incluir informações sobre a metodologia que você utilizará na pesquisa.
+Apresente os resultados esperados de forma clara e concisa.
+Conclua o resumo com uma síntese dos pontos principais e a relevância do estudo.
+Recursos para pesquisa:
+
+Bases de dados: Scielo, Google Scholar, Emerald Insight, IEEE Xplore
+Sites de órgãos governamentais e instituições de contabilidade: CFC, BCB, IBGE
+Artigos, estudos de caso e notícias: Cointelegraph, Bitcoin Magazine, Forbes, MIT Technology Review
+Eventos e grupos online: Blockchain Summit Latam, Big Data & AI World
+Tutoriais e cursos online: Udemy, Coursera, edX
+Lembre-se:
+
+O sucesso do seu TCC depende da sua dedicação e esforço na pesquisa e desenvolvimento do tema escolhido.
+Busque orientação de um professor ou especialista na área para te auxiliar na escolha do tema e desenvolvimento do seu trabalho.
+Boa sorte em seu TCC!

@@ -1,0 +1,46 @@
+Resumo: Utilização de Big Data para Análise de Dados Contábeis
+Introdução:
+
+A contabilidade tradicional enfrenta desafios na era digital. A crescente geração de dados exige ferramentas inovadoras para análise e extração de insights valiosos. O Big Data surge como uma solução promissora, oferecendo recursos para processar grandes volumes de dados contábeis e identificar padrões e tendências antes inimagináveis.
+
+Objetivo:
+
+Este trabalho de pesquisa tem como objetivo analisar o potencial transformador da utilização do Big Data na análise de dados contábeis. Exploraremos as técnicas e ferramentas disponíveis, os benefícios e desafios da aplicação do Big Data na contabilidade, e apresentaremos estudos de caso que demonstrem sua viabilidade na prática.
+
+Metodologia:
+
+Para alcançar os objetivos propostos, será realizada uma pesquisa bibliográfica abrangente em livros, artigos científicos e estudos de caso. As palavras-chave "Big Data", "análise de dados contábeis", "contabilidade", "ferramentas de Big Data" e "estudos de caso" nortearão a seleção das fontes relevantes.
+
+Resultados Esperados:
+
+A pesquisa espera contribuir para:
+
+Mapear as principais aplicações do Big Data na contabilidade: desde a análise de fraudes e otimização de custos até a gestão de riscos, precificação estratégica e segmentação de clientes, exploraremos as diversas possibilidades que o Big Data oferece para a área.
+Avaliar os benefícios da aplicação do Big Data na contabilidade: aumento da eficiência, otimização de processos, tomada de decisões mais assertivas e redução de custos são apenas alguns dos benefícios que serão analisados.
+Identificar os desafios da implementação do Big Data na contabilidade: necessidade de infraestrutura adequada, profissionais qualificados e mudança de cultura organizacional serão alguns dos desafios a serem explorados.
+Analisar as implicações do Big Data para a área contábil: mudanças nas habilidades profissionais e na regulamentação da profissão serão alguns dos aspectos a serem considerados.
+Apresentar estudos de caso concretos: demonstraremos como o Big Data tem sido aplicado em diferentes empresas e setores da economia, com resultados comprovados.
+Conclusão:
+
+A utilização do Big Data na análise de dados contábeis tem o potencial de revolucionar a contabilidade, possibilitando a análise de dados em tempo real, a identificação de padrões e tendências e a tomada de decisões mais assertivas. O estudo irá contribuir para o debate sobre o tema e fornecer informações relevantes para profissionais da área contábeis.
+
+Palavras-chave: Big Data, análise de dados contábeis, contabilidade, ferramentas de Big Data, estudos de caso.
+
+Observações:
+
+Este resumo é apenas um ponto de partida. Você pode adaptá-lo de acordo com sua pesquisa específica e objetivos.
+É importante incluir informações sobre a metodologia que você utilizará na pesquisa.
+Apresente os resultados esperados de forma clara e concisa, destacando os pontos mais relevantes.
+Conclua o resumo com uma síntese dos pontos principais e a relevância do estudo, evidenciando sua contribuição para a área.
+Recursos para pesquisa:
+
+Bases de dados: Scielo, Google Scholar, Emerald Insight, IEEE Xplore
+Sites de órgãos governamentais e instituições de contabilidade: CFC, BCB, IBGE
+Artigos, estudos de caso e notícias: Cointelegraph, Bitcoin Magazine, Forbes, MIT Technology Review
+Eventos e grupos online: Blockchain Summit Latam, Big Data & AI World
+Tutoriais e cursos online: Udemy, Coursera, edX
+Lembre-se:
+
+O sucesso do seu TCC depende da sua dedicação e esforço na pesquisa e desenvolvimento do tema escolhido.
+Busque orientação de um professor ou especialista na área para te auxiliar na escolha do tema, desenvolvimento do resumo e do trabalho completo.
+Boa sorte em seu TCC!
